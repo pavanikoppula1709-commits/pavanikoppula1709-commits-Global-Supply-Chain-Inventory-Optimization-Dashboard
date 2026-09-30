@@ -1,4 +1,3 @@
-# pavanikoppula1709-commits-Global-Supply-Chain-Inventory-Optimization-Dashboard
 # 🌍 Global Supply Chain & Inventory Optimization Dashboard
 
 ## 📊 Project Overview
